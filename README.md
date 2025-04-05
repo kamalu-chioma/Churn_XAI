@@ -21,7 +21,7 @@ Customer churn is a critical problem for businesses in telecom, banking, and Saa
 - Customers with **higher Monthly Charges** have a higher likelihood of churning.
 - Lack of **Online Security & Tech Support** increases churn risk.
 
-## 🎯 Business Recommendations
+### 🎯 Business Recommendations
 ✔ **Offer longer contracts** to reduce churn (month-to-month customers churn the most).  
 ✔ **Target new customers early** (most churn happens within the first 6 months).  
 ✔ **Optimize pricing strategies** for high-risk customers.  
