@@ -1,4 +1,4 @@
-####### 📊 Customer Churn Prediction & Explainability Report
+# 📊 Customer Churn Prediction & Explainability Report
 
 ## 🚀 Project Overview
 Customer churn is a critical problem for businesses in telecom, banking, and SaaS industries. This project leverages **Machine Learning (ML) models** and **SHAP (SHapley Additive Explanations)** to **predict churn** and **explain why customers leave**.
